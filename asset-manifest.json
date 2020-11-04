@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/monsters-canary/static/css/main.9effd815.chunk.css",
-    "main.js": "/monsters-canary/static/js/main.811fb097.chunk.js",
-    "main.js.map": "/monsters-canary/static/js/main.811fb097.chunk.js.map",
+    "main.css": "/monsters-canary/static/css/main.2ed46ce8.chunk.css",
+    "main.js": "/monsters-canary/static/js/main.3f3073b4.chunk.js",
+    "main.js.map": "/monsters-canary/static/js/main.3f3073b4.chunk.js.map",
     "runtime-main.js": "/monsters-canary/static/js/runtime-main.1042c7e5.js",
     "runtime-main.js.map": "/monsters-canary/static/js/runtime-main.1042c7e5.js.map",
     "static/js/2.e5a4b2a2.chunk.js": "/monsters-canary/static/js/2.e5a4b2a2.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.7d86b79e.chunk.js": "/monsters-canary/static/js/3.7d86b79e.chunk.js",
     "static/js/3.7d86b79e.chunk.js.map": "/monsters-canary/static/js/3.7d86b79e.chunk.js.map",
     "index.html": "/monsters-canary/index.html",
-    "static/css/main.9effd815.chunk.css.map": "/monsters-canary/static/css/main.9effd815.chunk.css.map",
+    "static/css/main.2ed46ce8.chunk.css.map": "/monsters-canary/static/css/main.2ed46ce8.chunk.css.map",
     "static/js/2.e5a4b2a2.chunk.js.LICENSE.txt": "/monsters-canary/static/js/2.e5a4b2a2.chunk.js.LICENSE.txt",
     "static/media/logo.103b5fa1.svg": "/monsters-canary/static/media/logo.103b5fa1.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.1042c7e5.js",
     "static/js/2.e5a4b2a2.chunk.js",
-    "static/css/main.9effd815.chunk.css",
-    "static/js/main.811fb097.chunk.js"
+    "static/css/main.2ed46ce8.chunk.css",
+    "static/js/main.3f3073b4.chunk.js"
   ]
 }
